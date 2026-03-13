@@ -58,7 +58,7 @@ Here is a link to the Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjE5MmNl
 
 # Deep dive into Insights
 
-Bala Car Sales
+## Bala Car Sales
 ![](Assets/BalaFullDashboard.png)
 
 
@@ -86,7 +86,7 @@ The most profitable month was in June and it generated R 522k, the least profita
 
 ![](Assets/BalaProfitSalesMonthly.png)
 
-Brown's Auto
+## Brown's Auto
 ![](Assets/BrownsFullDashboard.png)
 
 
@@ -115,7 +115,7 @@ The most profitable month was in August and it generated R 558k, the least profi
 
 ![](Assets/BrownsProfitSalesMonthly.png)
 
-Jones Auto Group
+## Jones Auto Group
 ![](Assets/JonesFullDashboard.png)
 
 
@@ -144,7 +144,7 @@ The most profitable month was in November and it generated R 450k, the least pro
 ![](Assets/JonesProfitSalesMonthly.png)
 
 
-Kgosi Car Dealership
+## Kgosi Car Dealership
 ![](Assets/KgosiFullDashboard.png)
 
 
@@ -174,7 +174,7 @@ The most profitable month was in October and it generated R 709,2k, the least pr
 ![](Assets/KgosiProfitSalesMonthly.png)
 
 
-Lekgotla Car Dealership
+## Lekgotla Car Dealership
 ![](Assets/LekgotlaFullDashboard.png)
 
 
@@ -204,7 +204,7 @@ The most profitable month was is June and it generated R 648k, the least profita
 ![](Assets/LekgotlaProfitSalesMonthly.png)
 
 
-Moyo Auto Sales
+## Moyo Auto Sales
 ![](Assets/MoyoFullDashboard.png)
 
 The most profitable car that were sold is the BMW X3 and it generated R 810k in profit. The least profitable car model is the Volkswagen Golf and it generated R 27k in profit. The car with the most sales is the X3 with 5 sales and the cars with the least sales are the C-Class, GLA-Class, Corolla, Hilux, Polo and Rio with 1 sale each.
@@ -233,7 +233,7 @@ The most profitable month was is October and it generated R 597,6k, the least pr
 ![](Assets/MoyoProfitSalesMonthly.png)
 
 
-Nkosi Auto
+## Nkosi Auto
 ![](Assets/NkosiFullDashboard.png)
 
 
@@ -263,7 +263,7 @@ The most profitable month was is May and it generated R 640,8k, the least profit
 ![](Assets/NkosiProfitSalesMonthly.png)
 
 
-Sibanda Motors
+## Sibanda Motors
 ![](Assets/SibandaFullDashboard.png)
 
 
@@ -293,7 +293,7 @@ The most profitable month was in November and it generated R 640,8k, the least p
 ![](Assets/SibandaProfitSalesMonthly.png)
 
 
-Smith's Car Dealership
+## Smith's Car Dealership
 ![](Assets/SmithsFullDashboard.png)
 
 
@@ -323,7 +323,7 @@ The most profitable month was is July and it generated R 347,4k, the least profi
 ![](Assets/SmithsProfitSalesMonthly.png)
 
 
-Tau Car Sales
+## Tau Car Sales
 ![](Assets/TauFullDashboard.png)
 
 
@@ -352,14 +352,13 @@ The most profitable month was is July and it generated R 351k, the least profita
 ![](Assets/TauProfitSales.png)
 
 
-Engine size based on car model
-
+## Engine size based on car model
 There are 4 petrol cars with a 2L engine and there is 1 petrol car each for the 1.2L, 1.5L, 1.6L and 1.8L.
 There are 3 diesel cars with 1 diesel car each for the 2L, 2.2L and 2.8L.
 
 ![](Assets/EngineFuelType.png)
 
-Engine size based on car segment
+## Engine size based on car segment
 There are 2 Hatchbacks with a 1L engine and there is 1 Hatchback each for the 1.2L, 1.4L and 1.5L.
 There are 3 Sedans with a 2L engine and there is 1 petrol car each for the 1.4L and 1.8L.
 There are 2 SUVs with a 2L engine and there is 1 petrol car with 1.6L.
@@ -370,43 +369,43 @@ There are 2 Pickups and there is 1 petrol car each for the 2.2L and 2.8L.
 
 # Recommendations
 
-- Bala Car Sales
+## Bala Car Sales
 Invest in more Sedans and cars from Ford as they have the best sales. 
 Promote the sales of the BMW X3 as it yields the greatest profit.
 
-- Brown’s Auto
+## Brown’s Auto
 Invest in more Sedans and more cars from Mercedes Benz as they have the best sales.
 Promote the sales of Mercedes Benz GLA-Class as it yields the greatest profit.
  
-- Jones Auto Group
+## Jones Auto Group
 Invest in more Hatchbacks and cars from Volkswagen as they have the best sales.
 Promote the sales of SUVs and the BMW X3 as it yields the greatest profit.
 
-- Kgosi Car Dealership
+## Kgosi Car Dealership
 Invest in more Sedans and cars from BMW as they have the best sales.
 Promote the sales of Pickups and the Ford Ranger as it yields the greatest profit.
 
-- Lekgotla Car Dealership
+## Lekgotla Car Dealership
 Invest in more Sedans and cars from Toyota as they have the best sales.
 Promote the sales of Pickups and the Toyota Hilux as it yields the greatest profit.
 
-- Moyo Auto Sales
+## Moyo Auto Sales
 Invest in more Hatchbacks and cars from BMW as they have the best sales.
 Promote the sales of SUVs and the BMW X3 as it yields the greatest profit.
 
-- Nkosi Auto
+## Nkosi Auto
 Invest in more Hatchbacks and cars from Mercedes Benz as they have the best sales.
 Promote the sales of SUVs and the Mercedes Benz GLA-Class as it yields the greatest profit.
 
-- Sibanda Motors
+## Sibanda Motors
 Invest in more Hatchbacks, Sedans, SUVs and cars from BMW as they have the best sales.
 Promote the sales of SUVs, the BMW 3 series and the Toyota Hilux as it yields the greatest profit.
 
-- Smith's Car Dealership
+## Smith's Car Dealership
 Invest in more Sedans, Hatchbacks and cars from Mercedes Benz as they have the best sales.
 Promote the sales of Sedans and the Mercedes Benz GLA-Class as it yields the greatest profit.
 
-- Tau Car Sales
+## Tau Car Sales
 Invest in more Sedans, cars from Toyota and the Toyota Corolla as they have the best sales.
 Promote the sales of cars from BMW and the BMW 3 series as it yields the greatest profit.
 
