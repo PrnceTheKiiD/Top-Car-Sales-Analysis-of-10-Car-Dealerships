@@ -63,7 +63,8 @@ Bala Car Sales
 
 
 The most profitable car that was sold is the BMW X3 and it generated R 486k in profit. The least profitable car model is the Volkswagen Golf and it generated R 36k in profit. The cars with the most sales are the X3, Rio, Ranger, Polo, Fiesta and Corolla with 3 sales each. The cars with the least sales are the Qashqai, Golf and C-Class with 1 sale each.
-![](Assets//BalaProfitSalesModelt.png)
+
+![](Assets//BalaProfitSalesModel.png)
 
 The most profitable car segment that was sold is the Pickup and it generated R 554.4k in profit. The least profitable car segment is the Hatchback and it generated R 36k in profit. The car segment with the most sales is the Sedan with 9 sales. The car segment with the least sales is the SUV with 4 sales.
 ![](Assets/BalaProfitSalesSegment.png)
