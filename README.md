@@ -370,42 +370,52 @@ There are 2 Pickups and there is 1 petrol car each for the 2.2L and 2.8L.
 # Recommendations
 
 - Bala Car Sales
+
 Invest in more Sedans and cars from Ford as they have the best sales. 
 Promote the sales of the BMW X3 as it yields the greatest profit.
 
 - Brown’s Auto
+
 Invest in more Sedans and more cars from Mercedes Benz as they have the best sales.
 Promote the sales of Mercedes Benz GLA-Class as it yields the greatest profit.
  
 - Jones Auto Group
+  
 Invest in more Hatchbacks and cars from Volkswagen as they have the best sales.
 Promote the sales of SUVs and the BMW X3 as it yields the greatest profit.
 
 - Kgosi Car Dealership
+
 Invest in more Sedans and cars from BMW as they have the best sales.
 Promote the sales of Pickups and the Ford Ranger as it yields the greatest profit.
 
 - Lekgotla Car Dealership
+
 Invest in more Sedans and cars from Toyota as they have the best sales.
 Promote the sales of Pickups and the Toyota Hilux as it yields the greatest profit.
 
 - Moyo Auto Sales
+
 Invest in more Hatchbacks and cars from BMW as they have the best sales.
 Promote the sales of SUVs and the BMW X3 as it yields the greatest profit.
 
 - Nkosi Auto
+
 Invest in more Hatchbacks and cars from Mercedes Benz as they have the best sales.
 Promote the sales of SUVs and the Mercedes Benz GLA-Class as it yields the greatest profit.
 
 - Sibanda Motors
+
 Invest in more Hatchbacks, Sedans, SUVs and cars from BMW as they have the best sales.
 Promote the sales of SUVs, the BMW 3 series and the Toyota Hilux as it yields the greatest profit.
 
 - Smith's Car Dealership
+
 Invest in more Sedans, Hatchbacks and cars from Mercedes Benz as they have the best sales.
 Promote the sales of Sedans and the Mercedes Benz GLA-Class as it yields the greatest profit.
 
 - Tau Car Sales
+
 Invest in more Sedans, cars from Toyota and the Toyota Corolla as they have the best sales.
 Promote the sales of cars from BMW and the BMW 3 series as it yields the greatest profit.
 
