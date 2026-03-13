@@ -353,20 +353,20 @@ The most profitable month was is July and it generated R 351k, the least profita
 
 
 Engine size based on car model
-![](Assets/EngineFuelType.png)
-
 
 There are 4 petrol cars with a 2L engine and there is 1 petrol car each for the 1.2L, 1.5L, 1.6L and 1.8L.
 There are 3 diesel cars with 1 diesel car each for the 2L, 2.2L and 2.8L.
 
+![](Assets/EngineFuelType.png)
+
 Engine size based on car segment
-![](Assets/EngineCarSegment.png)
-
-
 There are 2 Hatchbacks with a 1L engine and there is 1 Hatchback each for the 1.2L, 1.4L and 1.5L.
 There are 3 Sedans with a 2L engine and there is 1 petrol car each for the 1.4L and 1.8L.
 There are 2 SUVs with a 2L engine and there is 1 petrol car with 1.6L.
 There are 2 Pickups and there is 1 petrol car each for the 2.2L and 2.8L.
+
+![](Assets/EngineCarSegment.png)
+
 
 # Recommendations
 
