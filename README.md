@@ -67,19 +67,23 @@ The most profitable car that was sold is the BMW X3 and it generated R 486k in p
 ![](Assets//BalaProfitSalesModel.png)
 
 The most profitable car segment that was sold is the Pickup and it generated R 554.4k in profit. The least profitable car segment is the Hatchback and it generated R 36k in profit. The car segment with the most sales is the Sedan with 9 sales. The car segment with the least sales is the SUV with 4 sales.
+
 ![](Assets/BalaProfitSalesSegment.png)
 
 
 The dealership is located in Maun from Botswana and it generated R 1,6776m in profit with 25 sales in total.
+
 ![](Assets/BalaProfitSalesCountry.png)
 ![](Assets/BalaProfitSalesCity.png)
 
 
 The car brand that makes the most profit is BMW with R 487k and the least profit is made by Nissan and it generated R 39,6k in total. The most sold car brand is Ford with 6 sales and Nissan has the least with 1 sale.
+
 ![](Assets/BalaProfitSalesBrand.png)
 
 
 The most profitable month was in June and it generated R 522k, the least profitable month was in July and it generated R39,6k. The month with the most sales is June with 4 sales and July has the least sales with 1 sale.
+
 ![](Assets/BalaProfitSalesMonthly.png)
 
 Brown's Auto
@@ -87,23 +91,28 @@ Brown's Auto
 
 
 The most profitable car that were sold is the Mercedes-Benz GLA-Class and it generated R 486k in profit. The least profitable car model is the Hyundai i20 and it generated R 36k in profit. The car with the most sales GLA-Class with 6 sales and the cars with the least sales are the i20 and Hilux with 1 sale each.
+
 ![](Assets/BrownsProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the Sedan and it generated R 1,0944m in profit. The least profitable car segment is the Hatchback and it generated R 275.4k in profit. The car segment with the most sales is the Sedan with 21 sales. The car segment with the least sales is the SUV with 10 sales.
+
 ![](Assets/BrownsProfitSalesSegment.png)
 
 
 The dealership is located in Cape Town from South Africa and it generated R 1,6776m in profit with 46 sales in total.
+
 ![](Assets/BrownsProfitSalesCountry.png)
 ![](Assets/BrownsProfitSalesCity.png)
 
 
 The car brand that makes the most profit is Mercedes Benz with R 702k and the least profit is made by Hyundai and it generated R 23,4k in total. The most sold car brand is Mercedes Benz with 9 sales and Hyundai has the least with 1 sale.
+
 ![](Assets/BrownsProfitSalesBrand.png)
 
 
 The most profitable month was in August and it generated R 558k, the least profitable month was in June and it generated R189k. The month with the most sales is August with 8 sales and June has the least sales with 3 sales.
+
 ![](Assets/BrownsProfitSalesMonthly.png)
 
 Jones Auto Group
@@ -111,6 +120,7 @@ Jones Auto Group
 
 
 The most profitable car that were sold is the BMW X3 and it generated R 324k in profit. The least profitable car model is the Toyota Corolla and it generated R 32,5k in profit. The cars with the most sales are the i20 and Polo with 6 sales and the car with the least sales is the Corolla with 1 sale each.
+
 ![](Assets/JonesProfitSalesModel.png)
 
 
@@ -119,15 +129,18 @@ The most profitable car segment that was sold is the SUV and it generated R 684k
 
 
 The dealership is located in Durban from South Africa and it generated R 1,9926m in profit with 37 sales in total.
+
 ![](Assets/JonesProfitSalesCountry.png)
 ![](Assets/JonesProfitSalesCity.png)
 
 
 The car brand that makes the most profit BMW with R 450k and the least profit is made by Toyota and it generated R 32,4k in total. The most sold car brand is Volkswagen with 8 sales and Toyota has the least with 1 sale.
+
 ![](Assets/JonesProfitSalesBrand.png)
 
 
 The most profitable month was in November and it generated R 450k, the least profitable month was in August and it generated R 23,4k. The month with the most sales is April with 8 sales and August has the least sales with 1 sale.
+
 ![](Assets/JonesProfitSalesMonthly.png)
 
 
@@ -136,23 +149,28 @@ Kgosi Car Dealership
 
 
 The most profitable car that were sold is the Ford Ranger and it generated R 864k in profit. The least profitable car model is the Volkswagen Golf and it generated R 36k in profit. The car with the most sales is the Ranger with 8 sales and the cars with the least sales are the C-Class and Golf with 1 sale each.
+
 ![](Assets/KgosiProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the Pickup and it generated R 1,44m in profit. The least profitable car segment is the Hatchback and it generated R 347,4k in profit. The car segment with the most sales is the Sedan with 16 sales. The car segment with the least sales is the SUV with 6 sales.
+
 ![](Assets/KgosiProfitSalesSegment.png)
 
 
 The dealership is located in Gaborone from Botswana and it generated R 3,2328m in profit with 49 sales in total.
+
 ![](Assets/KgosiProfitSalesCountry.png)
 ![](Assets/KgosiProfitSalesCity.png)
 
 
 The car brand that makes the most profit BMW with R 927k and the least profit is made by Mercedes Benz and it generated R 72k in total. The most sold car brand is BMW with 10 sales and Mercedes Benz has the least with 1 sale.
+
 ![](Assets/KgosiProfitSalesBrand.png)
 
 
 The most profitable month was in October and it generated R 709,2k, the least profitable month was in July and it generated R 63k. The month with the most sales is September with 10 sales and the months with the least sales are July and December with 2 sales each.
+
 ![](Assets/KgosiProfitSalesMonthly.png)
 
 
@@ -161,23 +179,28 @@ Lekgotla Car Dealership
 
 
 The most profitable car that were sold is the Toyota Hilux and it generated R 691,2k in profit. The least profitable car model is the Renault Kwid and it generated R 21,6k in profit. The car with the most sales is the Hilux with 21 sales and the cars with the least sales are the C-Class, A4, Corolla, Golf, i20 and Kwid with 1 sale each.
+
 ![](Assets/LekgotlaProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the Pickup and it generated R 1,0152m in profit. The least profitable car segment is the SUV and it generated R 241,2k in profit. The car segment with the most sales is the Sedan with 11 sales. The car segment with the least sales is the SUV with 4 sales.
+
 ![](Assets/LekgotlaProfitSalesSegment.png)
 
 
 The dealership is located in Lobatse from Botswana and it generated R 2,0088m in profit with 34 sales in total.
+
 ![](Assets/LekgotlaProfitSalesCountry.png)
 ![](Assets/LekgotlaProfitSalesCountry.png)
 
 
 The car brand that makes the most profit is Toyota with R 723,6k and the least profit is made by Renault and it generated R 21,4k in total. The most sold car brand is Toyota with 7 sales and the least sold brands are Audi, Hyundai and Renault with 1 sale each.
+
 ![](Assets/LekgotlaProfitSalesBrand.png)
 
 
 The most profitable month was is June and it generated R 648k, the least profitable month was in April and it generated R 27k. The month with the most sales is June with 6 sales and the months with the least sales are Jan and April with 1 sale each.
+
 ![](Assets/LekgotlaProfitSalesMonthly.png)
 
 
@@ -185,23 +208,28 @@ Moyo Auto Sales
 ![](Assets/MoyoFullDashboard.png)
 
 The most profitable car that were sold is the BMW X3 and it generated R 810k in profit. The least profitable car model is the Volkswagen Golf and it generated R 27k in profit. The car with the most sales is the X3 with 5 sales and the cars with the least sales are the C-Class, GLA-Class, Corolla, Hilux, Polo and Rio with 1 sale each.
+
 ![](Assets/MoyoProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the SUV and it generated R 891k in profit. The least profitable car segment is the Hatchback and it generated R 289,8k in profit. The car segment with the most sales is the Hatchback with 11 sales. The car segment with the least sales is the Pickup with 3 sales.
+
 ![](Assets/MoyoProfitSalesSegment.png)
 
 
 The dealership is located in Francistown from Botswana and it generated R 2,043m in profit with 29 sales in total.
+
 ![](Assets/MoyoProfitSalesCountry.png)
 ![](Assets/MoyoProfitSalesCity.png)
 
 
 The car brand that makes the most profit is BMW with R 1,062m and the least profit is made by KIA and it generated R 30,6k in total. The most sold car brand is BMW with 9 sales and the least sold brand is KIA with 1 sale each.
+
 ![](Assets/MoyoProfitSalesBrand.png)
 
 
 The most profitable month was is October and it generated R 597,6k, the least profitable month was in September and it generated R 36k. The month with the most sales is August with 7 sales and the month with the least sales is December with 1 sale.
+
 ![](Assets/MoyoProfitSalesMonthly.png)
 
 
@@ -210,23 +238,28 @@ Nkosi Auto
 
 
 The most profitable car that were sold is the Mercedes Benz GLA-Class and it generated R 405k in profit. The least profitable car model is the Kia Rio and it generated R 30.6k in profit. The car with the most sales is the Qashqai with 6 sales and the car with the least sales is the Rio with 1 sale.
+
 ![](Assets/NkosiProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the SUV and it generated R 642,6k in profit. The least profitable car segment is the Hatchback and it generated R 289,8k in profit. The car segment with the most sales is the Hatchback with 11 sales. The car segment with the least sales is the Pickup with 3 sales.
+
 ![](Assets/NkosiProfitSalesSegment.png)
 
 
 The dealership is located in Molepolale from Botswana and it generated R 1,8594m in profit with 35 sales in total.
+
 ![](Assets/NkosiProfitSalesCountry.png)
 ![](Assets/NkosiProfitSalesCity.png)
 
 
 The car brand that makes the most profit is Mercedes Benz with R 549k and the least profit is made by KIA and it generated R 30,6k in total. The most sold car brand is Mercedes Benz with 7 sales and the least sold brand is KIA with 1 sale.
+
 ![](Assets/NkosiProfitSalesBrand.png)
 
 
 The most profitable month was is May and it generated R 640,8k, the least profitable month was in September and it generated R 21,6k. The month with the most sales is May with 9 sales and the months with the least sales are April and September with 1 sale.
+
 ![](Assets/NkosiProfitSalesMonthly.png)
 
 
@@ -235,23 +268,28 @@ Sibanda Motors
 
 
 The most profitable car that were sold is the Toyota Hilux and it generated R 315k in profit. The least profitable car model is the Toyota Corolla and it generated R 32,4k in profit. The car with the most sales is the 3 Series with 5 sales and the cars with the least sales ae the Corolla, Ranger and X3 with 1 sale each.
+
 ![](Assets/SibandaProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the SUV and it generated R 563,4k in profit. The least profitable car segment is the Hatchback and it generated R 223,2k in profit. The car segments with the most sales are the Hatchback, Sedan and SUV with 8 sales. The car segment with the least sales is the Pickup with 4 sales.
+
 ![](Assets/SibandaProfitSalesSegment.png)
 
 
 The dealership is located in Gaborone from Botswana and it generated R 1,6488m in profit with 28 sales in total.
+
 ![](Assets/SibandaProfitSalesCountry.png)
 ![](Assets/SibandaProfitSalesCity.png)
 
 
 The car brand that makes the most profit is BMW with R 477k and the least profit is made by Renault and it generated R 43,2k in total. The most sold car brand is BMW with 6 sales and the least sold brand is Ford with 1 sale.
+
 ![](Assets/SibandaProfitSalesBrand.png)
 
 
 The most profitable month was in November and it generated R 640,8k, the least profitable month was in May and it generated R 21,6k. The month with the most sales is March with 7 sales and the month with the least sales is July with 1 sale.
+
 ![](Assets/SibandaProfitSalesMonthly.png)
 
 
@@ -260,23 +298,28 @@ Smith's Car Dealership
 
 
 The most profitable car that were sold is the Mercedes Benz GLA-Class and it generated R 612k in profit. The least profitable car model is the Hyundai i20 and it generated R 23,4k in profit. The car with the most sales is the Golf with 5 sales and the cars with the least sales ae the Fiesta, i20, Polo and Rio with 1 sale each.
+
 ![](Assets/SmithsProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the Sedan and it generated R 559,8k in profit. The least profitable car segment is the Pickup and it generated R 230,4k in profit. The car segments with the most sales are the Hatchback and Sedan with 10 sales. The car segment with the least sales is the Pickup with 2 sales.
+
 ![](Assets/SmithsProfitSalesSegment.png)
 
 
 The dealership is located in Johannesburg from South Africa and it generated R 1,4922m in profit with 28 sales in total.
+
 ![](Assets/SmithsProfitSalesCountry.png)
 ![](Assets/SmithsProfitSalesCity.png)
 
 
 The car brand that makes the most profit is Mercedes Benz with R 612k and the least profit is made by Hyundai and it generated R 23,4k in total. The most sold car brand is Mercedes Benz with 8 sales and the least sold brands are Ford, Hyundai and Kia with 1 sale each.
+
 ![](Assets/SmithsProfitSalesBrand.png)
 
 
 The most profitable month was is July and it generated R 347,4k, the least profitable month was in May and it generated R 64,8k. The month with the most sales is July with 8 sales and the month with the least sales are August and October with 1 sale each.
+
 ![](Assets/SmithsProfitSalesMonthly.png)
 
 
@@ -285,22 +328,27 @@ Tau Car Sales
 
 
 The most profitable car that were sold is the BMW 3 Series and it generated R 315k in profit. The least profitable car model is the Renault Kwid and it generated R 21,6k in profit. The car with the most sales is the Corolla with 9 sales and the cars with the least sales is the Kwid with 1 sale.
+
 ![](Assets/TauProfitSalesModel.png)
 
 
 The most profitable car segment that was sold is the Sedan and it generated R 955,8k in profit. The least profitable car segment is the Hatchback and it generated R 196,2k in profit. The car segment with the most sales is the Sedan with 20 sales. The car segment with the least sales is the Pickup with 2 sales.
+
 ![](Assets/TauProfitSalesSegment.png)
 
 
 The dealership is located in Selebi-Phikwe from Botswana and it generated R 1,6684m in profit with 36 sales in total.
+
 ![](Assets/TauProfitSalesCountry.png)
 ![](Assets/TauProfitSalesCity.png)
 
-The car brand that makes the most profit is BMW with R 315k and the least profit is made by Renault and it generated R 21,6k in total. The most sold car brand is Toyota with 9 sales and the least sold brands is Renault with 1 sale each. 
+The car brand that makes the most profit is BMW with R 315k and the least profit is made by Renault and it generated R 21,6k in total. The most sold car brand is Toyota with 9 sales and the least sold brands is Renault with 1 sale each.
+
 ![](Assets/TauProfitSalesBrand.png)
 
 
 The most profitable month was is July and it generated R 351k, the least profitable month was in January and it generated R 23,4k. The month with the most sales is August with 7 sales and the month with the least sales is January with 1 sale.
+
 ![](Assets/TauProfitSales.png)
 
 
