@@ -1,4 +1,4 @@
-1. Project Background (& Overview)
+## Project Background (& Overview)
 
 A Power BI project that analyzes the car sales of 10 dealerships from South Africa and Botswana during 2022.The dataset that was used in this project was acquired from Kaggle and here is the link to the dataset: https://www.kaggle.com/datasets/teresiawangari/top-cars-south-africa
 The aim of this project is to find the best performing dealerships amongst the 10 dealerships in 2022.
