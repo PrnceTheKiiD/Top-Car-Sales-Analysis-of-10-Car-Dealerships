@@ -1,4 +1,4 @@
-# Project Background (& Overview)
+# Project Background & Overview
 
 A project that analyzes the car sales of 10 dealerships from South Africa and Botswana during 2022.The dataset that was used in this project was acquired from Kaggle and here is the link to the dataset: https://www.kaggle.com/datasets/teresiawangari/top-cars-south-africa
 
